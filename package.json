@@ -86,7 +86,7 @@
     "solc": "^0.4.23",
     "uglifyjs-webpack-plugin": "^1.2.5",
     "webpack": "^3.11.0",
-    "webpack-bundle-analyzer": "^3.3.2"
+    "webpack-bundle-analyzer": "^4.4.0"
   },
   "dependencies": {
     "@babel/runtime": "^7.3.4",
